@@ -1,3 +1,4 @@
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+I'm+Pushpender+Mishra;Full+Stack+Developer;GenAI+%26+MERN+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
 </div>
@@ -41,26 +42,6 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Generative%20AI-FF6F00?style=for-the-badge&logo=google&logoColor=white" />
 
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/pushpender1043">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pushpender's Github Stats" />
-  </a>
-
-  <a href="https://github.com/pushpender1043">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=radical" alt="Pushpender's Streak" />
 </div>
 
 ---
