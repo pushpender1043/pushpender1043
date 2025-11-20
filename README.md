@@ -49,13 +49,18 @@
 
 <div align="center">
   <a href="https://github.com/pushpender1043">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Pushpender's Github Stats" />
+  </a>
+
+  <a href="https://github.com/pushpender1043">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&theme=radical" alt="Top Languages" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=tokyonight" alt="pushpender1043" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=radical" alt="Pushpender's Streak" />
 </div>
 
 ---
