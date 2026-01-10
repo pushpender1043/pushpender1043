@@ -60,15 +60,18 @@
 ---
 
 <div align="center">
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=radical&hide_border=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&theme=radical&hide_border=true" height="160" alt="languages graph" />
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=radical&hide_border=true" alt="streak stats" />
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=radical)](https://github.com/pushpender1043)
+
+  <br/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&theme=radical)](https://github.com/pushpender1043)
+
+  <br/>
+
+  [![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=radical)](https://github.com/pushpender1043)
 
 </div>
 
