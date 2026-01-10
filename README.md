@@ -1,10 +1,14 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+I'm+Pushpender+Mishra;Full+Stack+Developer;GenAI+%26+MERN+Enthusiast;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</div>
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Pushpender%20Mishra&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Turning%20Coffee%20into%20Code%20%26%20Ideas%20into%20Reality&descAlignY=55&descSize=20" width="100%" alt="Header" />
 
-<div align="center">
-  <h3>🚀 Turning Coffee into Code & Ideas into Reality</h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;GenAI+%26+MERN+Enthusiast;Building+Scalable+Web+Apps;Always+Learning+Something+New" alt="Typing SVG" />
+  </a>
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  
 </div>
 
 ---
@@ -16,6 +20,14 @@
 - 🌱 Learning **Advanced Generative AI** & **System Design**.
 - 💡 I love solving **DSA problems** to sharpen my logic.
 - ⚡ Fun fact: I can debug code faster than I can finish my tea! ☕
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+</div>
 
 ---
 
