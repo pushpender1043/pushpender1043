@@ -115,26 +115,6 @@ Here are some of the cool things I've built.
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <br>
-  <table>
-    <tr>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="pushpender1043's Github Stats" />
-      </td>
-      <td>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=tokyonight" alt="Streak Stats" />
-</div>
-
----
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-863207524607.gif" width="100%">
   <h3>Let's create something amazing together! 🚀</h3>
