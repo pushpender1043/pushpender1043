@@ -274,10 +274,7 @@ High-performance bidirectional messaging with production-grade reliability.
     ✦ Advanced C++ — Graph theory, DP, complex algorithms on LeetCode
     ✦ Optimized sorting/searching → O(N log N) on large-scale datasets
 ```
-
 ---
-<br/>
-
 <!-- Footer wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 
