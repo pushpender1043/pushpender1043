@@ -241,25 +241,6 @@ High-performance bidirectional messaging with production-grade reliability.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushpender1043&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushpender1043&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
-
-<br/>
-
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pushpender1043&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushpender1043&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
-
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">
