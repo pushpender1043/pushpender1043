@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:262626,100:171717&height=200&section=header&text=Pushpender%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=60&descColor=bdbdbd" />
 
 <!-- Animated profile card (photo + rotating rings + typing name) -->
-<img src="./assets/profile-card.svg" width="100%" alt="Pushpender Mishra - profile card" />
+<img src="./profile-card.svg" width="100%" alt="Pushpender Mishra - profile card" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -20,7 +20,7 @@
 <a href="https://leetcode.com/u/pushpender_1043/"><img src="https://img.shields.io/badge/LeetCode-3a3a3a?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 <a href="https://huggingface.co/pushpender1043"><img src="https://img.shields.io/badge/HuggingFace-E5E5E5?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -45,7 +45,7 @@ const pushpender = {
 ## 🏢 Experience
 
 <div align="center">
-  <img src="./assets/airtel-card.svg" width="100%" alt="Ex-Intern at Bharti Airtel, 2026" />
+  <img src="./airtel-card.svg" width="100%" alt="Ex-Intern at Bharti Airtel, 2026" />
 </div>
 
 <!-- Optional: add 2-3 lines here about your role / team / what you built at Airtel -->
@@ -55,7 +55,7 @@ const pushpender = {
 ## 🚀 Featured Project — DATX
 
 <div align="center">
-  <img src="./assets/datx-dashboard.svg" width="100%" alt="DATX - automated dashboard" />
+  <img src="./datx-dashboard.svg" width="100%" alt="DATX - automated dashboard" />
 </div>
 
 <br/>
@@ -114,7 +114,7 @@ const pushpender = {
 ## 🤖 AI Tools I Ship With
 
 <div align="center">
-  <img src="./assets/ai-toolbelt.svg" width="100%" alt="AI tools: Antigravity, Cursor, Google AI Studio, Google Stitch, Gemini, Claude, ChatGPT, Copilot" />
+  <img src="./ai-toolbelt.svg" width="100%" alt="AI tools: Antigravity, Cursor, Google AI Studio, Google Stitch, Gemini, Claude, ChatGPT, Copilot" />
 </div>
 
 <br/>
