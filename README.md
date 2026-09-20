@@ -6,10 +6,8 @@
 <!-- Animated profile card (photo + rotating rings + typing name) -->
 <img src="./profile-card.svg" width="100%" alt="Pushpender Mishra - profile card" />
 
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8A8A8A&center=true&vCenter=true&width=700&lines=🚀+Ex-Intern+%40+Bharti+Airtel+%2726;⚡+Building+Growtix%2C+AgroTech+%26+DATX;🤖+MERN+%2B+Next.js+%2B+GenAI+APIs;🏆+Hackforge+2.0+Winner" alt="Typing SVG" />
-</a>
+<!-- Typing animation (self-hosted, koi external service nahi) -->
+<img src="./typing.svg" width="700" alt="Ex-Intern @ Bharti Airtel | Building Growtix, AgroTech and DATX | MERN + Next.js + GenAI APIs | Hackforge 2.0 Winner" />
 
 <br/>
 
