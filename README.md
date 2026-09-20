@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Pushpender%20Mishra&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Generative%20AI%20Developer&descAlignY=60&descColor=a78bfa" />
 
 <!-- Animated profile card (photo + rotating rings + typing name) -->
-<img src="./assets/profile-card.svg" width="100%" alt="Pushpender Mishra - profile card" />
+<img src="./profile-card.svg" width="100%" alt="Pushpender Mishra - profile card" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
