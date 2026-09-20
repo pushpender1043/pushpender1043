@@ -20,7 +20,7 @@
 <a href="https://leetcode.com/u/pushpender_1043/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://huggingface.co/pushpender1043"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 </div>
 
@@ -45,7 +45,7 @@ const pushpender = {
 ## 🏢 Experience
 
 <div align="center">
-  <img src="./assets/airtel-card.svg" width="100%" alt="Ex-Intern at Bharti Airtel, 2026" />
+  <img src="./airtel-card.svg" width="100%" alt="Ex-Intern at Bharti Airtel, 2026" />
 </div>
 
 <!-- Optional: add 2-3 lines here about your role / team / what you built at Airtel -->
@@ -55,7 +55,7 @@ const pushpender = {
 ## 🚀 Featured Project — DATX
 
 <div align="center">
-  <img src="./assets/datx-dashboard.svg" width="100%" alt="DATX - automated dashboard" />
+  <img src="./datx-dashboard.svg" width="100%" alt="DATX - automated dashboard" />
 </div>
 
 <br/>
@@ -114,7 +114,7 @@ const pushpender = {
 ## 🤖 AI Tools I Ship With
 
 <div align="center">
-  <img src="./assets/ai-toolbelt.svg" width="100%" alt="AI tools: Antigravity, Cursor, Google AI Studio, Google Stitch, Gemini, Claude, ChatGPT, Copilot" />
+  <img src="./ai-toolbelt.svg" width="100%" alt="AI tools: Antigravity, Cursor, Google AI Studio, Google Stitch, Gemini, Claude, ChatGPT, Copilot" />
 </div>
 
 <br/>
