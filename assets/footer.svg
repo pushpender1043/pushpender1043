@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170" role="img" aria-label="Footer"><defs>
+<linearGradient id="f1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0e7490"/><stop offset="1" stop-color="#5b21b6"/></linearGradient>
+<linearGradient id="f2" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#111a3d"/><stop offset="1" stop-color="#060a14"/></linearGradient></defs>
+<path d="M0 82 q125 30 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 L2000 170 L0 170 Z" fill="url(#f1)" opacity=".55"><animateTransform attributeName="transform" type="translate" values="-500 0;0 0" dur="9s" repeatCount="indefinite"/></path>
+<path d="M0 66 q125 -34 250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 t250 0 L2000 170 L0 170 Z" fill="url(#f2)"><animateTransform attributeName="transform" type="translate" values="0 0;-500 0" dur="7s" repeatCount="indefinite"/></path>
+<text x="500" y="112" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-weight="600" font-size="24" fill="#e6edf3">Let's build something worth shipping.</text>
+<text x="500" y="142" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="12" letter-spacing="4" fill="#22d3ee">PUSHPENDER MISHRA  ·  2026</text></svg>

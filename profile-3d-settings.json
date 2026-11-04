@@ -1,0 +1,11 @@
+{
+  "type": "normal",
+  "fileName": "profile-cyber.svg",
+  "backgroundColor": "#0b1020",
+  "foregroundColor": "#e6edf3",
+  "strongColor": "#22d3ee",
+  "weakColor": "#8b9bb4",
+  "radarColor": "#22d3ee",
+  "growingAnimation": true,
+  "contribColors": ["#1a2036", "#164e63", "#0891b2", "#22d3ee", "#a78bfa"]
+}

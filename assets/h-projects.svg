@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 64" width="900" height="64" role="img" aria-label="Projects"><defs>
+<linearGradient id="t" gradientUnits="userSpaceOnUse" x1="352" y1="0" x2="548" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<linearGradient id="gl" x1="0" x2="1"><stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="1" stop-color="#22d3ee"/></linearGradient>
+<linearGradient id="gr" x1="0" x2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/></linearGradient></defs>
+<rect x="40" y="31" width="282" height="1.5" fill="url(#gl)"><animate attributeName="opacity" values=".4;1;.4" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="578" y="31" width="282" height="1.5" fill="url(#gr)"><animate attributeName="opacity" values=".4;1;.4" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="330" y="27" width="8" height="8" rx="1.5" fill="#22d3ee"><animate attributeName="opacity" values="1;.25;1" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="562" y="27" width="8" height="8" rx="1.5" fill="#a78bfa"><animate attributeName="opacity" values="1;.25;1" dur="3s" begin="1.5s" repeatCount="indefinite"/></rect>
+<text x="450" y="40" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, Helvetica, Arial, sans-serif" font-weight="700" font-size="22" letter-spacing="7" fill="url(#t)">PROJECTS</text></svg>
