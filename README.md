@@ -2,19 +2,19 @@
 
 <img src="assets/banner.svg" width="100%" alt="Pushpender Mishra"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1100&color=22D3EE&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Ex-Intern+%40+Bharti+Airtel+%E2%80%94+built+datX;Hackforge+2.0+%E2%80%94+1st+Position;400%2B+LeetCode+problems+solved;MERN+%C2%B7+Next.js+%C2%B7+AI+Integration" alt="typing"/>
-
-<br>
-
-<a href="https://www.linkedin.com/in/pushpender-mishra"><img src="assets/linkedin.svg" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/pushpender1043"><img src="https://cdn.simpleicons.org/github/22d3ee" height="28" alt="github"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/pushpender_1043/"><img src="https://cdn.simpleicons.org/leetcode/22d3ee" height="28" alt="leetcode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/pushpender1043"><img src="https://cdn.simpleicons.org/huggingface/22d3ee" height="28" alt="huggingface"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:pushpendermishra01@gmail.com"><img src="https://cdn.simpleicons.org/gmail/22d3ee" height="28" alt="gmail"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=1100&color=CCD0CF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineer+%C2%B7+Full-Stack+Developer;Ex-Intern+%40+Bharti+Airtel+%E2%80%94+built+datX;Hackforge+2.0+%E2%80%94+1st+Position;400%2B+LeetCode+problems+solved;MERN+%C2%B7+Next.js+%C2%B7+AI+Integration" alt="typing"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=pushpender1043&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" alt="views"/>
+<a href="https://www.linkedin.com/in/pushpender-mishra"><img src="assets/social-linkedin.svg" height="42" alt="LinkedIn"/></a>
+<a href="https://github.com/pushpender1043"><img src="assets/social-github.svg" height="42" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/pushpender_1043/"><img src="assets/social-leetcode.svg" height="42" alt="LeetCode"/></a>
+<a href="https://huggingface.co/pushpender1043"><img src="assets/social-huggingface.svg" height="42" alt="Hugging Face"/></a>
+<a href="mailto:pushpendermishra01@gmail.com"><img src="assets/social-gmail.svg" height="42" alt="Gmail"/></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=pushpender1043&label=PROFILE%20VIEWS&color=4a5c6a&labelColor=253745&style=for-the-badge" alt="views"/>
 
 </div>
 
@@ -56,7 +56,7 @@
 > - ⚔️ **1v1 coding arena** over WebSockets with **<30ms latency**, plus an automated **mock-interview simulator**
 > - ⚙️ **Stack:** React · Node.js · WebSockets · AI APIs
 >
-> <a href="https://YOUR-LIVE-LINK"><img src="https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&labelColor=0891b2" alt="Live Demo"/></a> <a href="https://github.com/pushpender1043/YOUR-REPO"><img src="https://img.shields.io/badge/View_Repo-6d28d9?style=for-the-badge&labelColor=6d28d9" alt="View Repo"/></a>
+> <a href="https://YOUR-LIVE-LINK"><img src="https://img.shields.io/badge/Live_Demo-4a5c6a?style=for-the-badge&labelColor=4a5c6a" alt="Live Demo"/></a> <a href="https://github.com/pushpender1043/YOUR-REPO"><img src="https://img.shields.io/badge/View_Repo-253745?style=for-the-badge&labelColor=253745" alt="View Repo"/></a>
 
 <!-- ===== Jab ready ho to niche wale projects uncomment kar do (links badal dena) =====
 
@@ -67,7 +67,7 @@
 > - 🎙️ Voice assistant and **Dr. Disease**, a computer-vision tool for instant crop-disease diagnosis
 > - ⚙️ **Stack:** Next.js · Supabase · AI APIs
 >
-> <a href="https://YOUR-LIVE-LINK"><img src="https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&labelColor=0891b2" alt="Live Demo"/></a> <a href="https://github.com/pushpender1043/YOUR-REPO"><img src="https://img.shields.io/badge/View_Repo-6d28d9?style=for-the-badge&labelColor=6d28d9" alt="View Repo"/></a>
+> <a href="https://YOUR-LIVE-LINK"><img src="https://img.shields.io/badge/Live_Demo-4a5c6a?style=for-the-badge&labelColor=4a5c6a" alt="Live Demo"/></a> <a href="https://github.com/pushpender1043/YOUR-REPO"><img src="https://img.shields.io/badge/View_Repo-253745?style=for-the-badge&labelColor=253745" alt="View Repo"/></a>
 
 ### 💬 ChitChat — Real-Time Messaging App
 
@@ -75,7 +75,7 @@
 >
 > - ⚙️ **Stack:** Socket.io · React · Node.js · MongoDB
 >
-> <a href="https://YOUR-LIVE-LINK"><img src="https://img.shields.io/badge/Live_Demo-0891b2?style=for-the-badge&labelColor=0891b2" alt="Live Demo"/></a> <a href="https://github.com/pushpender1043/YOUR-REPO"><img src="https://img.shields.io/badge/View_Repo-6d28d9?style=for-the-badge&labelColor=6d28d9" alt="View Repo"/></a>
+> <a href="https://YOUR-LIVE-LINK"><img src="https://img.shields.io/badge/Live_Demo-4a5c6a?style=for-the-badge&labelColor=4a5c6a" alt="Live Demo"/></a> <a href="https://github.com/pushpender1043/YOUR-REPO"><img src="https://img.shields.io/badge/View_Repo-253745?style=for-the-badge&labelColor=253745" alt="View Repo"/></a>
 
 -->
 
@@ -96,15 +96,15 @@
 <img src="https://skillicons.dev/icons?i=vercel,gcp,git,github,postman&theme=dark&perline=10" alt="tools"/>
 
 <sub><b>CONCEPTS & AI</b></sub><br>
-<img src="https://img.shields.io/badge/Socket.IO-0e7490?style=for-the-badge&labelColor=0e7490&logo=socketdotio&logoColor=22d3ee" alt="Socket.IO"/>
-<img src="https://img.shields.io/badge/JWT_Auth-0e7490?style=for-the-badge&labelColor=0e7490&logo=jsonwebtokens&logoColor=22d3ee" alt="JWT Auth"/>
-<img src="https://img.shields.io/badge/Framer_Motion-0e7490?style=for-the-badge&labelColor=0e7490&logo=framer&logoColor=22d3ee" alt="Framer Motion"/>
-<img src="https://img.shields.io/badge/REST_APIs-0e7490?style=for-the-badge&labelColor=0e7490" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/RBAC-0e7490?style=for-the-badge&labelColor=0e7490" alt="RBAC"/>
+<img src="https://img.shields.io/badge/Socket.IO-253745?style=for-the-badge&labelColor=253745&logo=socketdotio&logoColor=ccd0cf" alt="Socket.IO"/>
+<img src="https://img.shields.io/badge/JWT_Auth-253745?style=for-the-badge&labelColor=253745&logo=jsonwebtokens&logoColor=ccd0cf" alt="JWT Auth"/>
+<img src="https://img.shields.io/badge/Framer_Motion-253745?style=for-the-badge&labelColor=253745&logo=framer&logoColor=ccd0cf" alt="Framer Motion"/>
+<img src="https://img.shields.io/badge/REST_APIs-253745?style=for-the-badge&labelColor=253745" alt="REST APIs"/>
+<img src="https://img.shields.io/badge/RBAC-253745?style=for-the-badge&labelColor=253745" alt="RBAC"/>
 <br>
-<img src="https://img.shields.io/badge/Prompt_Engineering-5b21b6?style=for-the-badge&labelColor=5b21b6" alt="Prompt Engineering"/>
-<img src="https://img.shields.io/badge/Generative_AI-5b21b6?style=for-the-badge&labelColor=5b21b6" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Hugging_Face-5b21b6?style=for-the-badge&labelColor=5b21b6&logo=huggingface&logoColor=22d3ee" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-4a5c6a?style=for-the-badge&labelColor=4a5c6a" alt="Prompt Engineering"/>
+<img src="https://img.shields.io/badge/Generative_AI-4a5c6a?style=for-the-badge&labelColor=4a5c6a" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Hugging_Face-4a5c6a?style=for-the-badge&labelColor=4a5c6a&logo=huggingface&logoColor=ccd0cf" alt="Hugging Face"/>
 
 </div>
 
@@ -130,13 +130,11 @@
 
 <br>
 
-<img src="https://leetcard.jacoblin.cool/pushpender_1043?ext=heatmap&font=Fira%20Code&border=0&radius=14&colors=0d1424,111a30,e6edf3,9fb3c8,22d3ee,a78bfa,38bdf8,7c3aed" width="92%" alt="LeetCode stats"/>
+<img src="https://leetcard.jacoblin.cool/pushpender_1043?ext=heatmap&font=JetBrains%20Mono&border=0&radius=14&colors=06141b,11212d,ccd0cf,9ba8ab,ccd0cf,9ba8ab,4a5c6a,253745" width="92%" alt="LeetCode stats"/>
 
 <br>
 
-<img src="https://streak-stats.demolab.com/?user=pushpender1043&background=0D1424&border=22D3EE&stroke=1E293B&ring=22D3EE&fire=A78BFA&currStreakNum=E6EDF3&currStreakLabel=22D3EE&sideNums=E6EDF3&sideLabels=9FB3C8&dates=9FB3C8" width="80%" alt="Streak stats"/>
-
-<br>
+<img src="https://streak-stats.demolab.com/?user=pushpender1043&background=11212D&border=253745&stroke=253745&ring=9BA8AB&fire=CCD0CF&currStreakNum=CCD0CF&currStreakLabel=CCD0CF&sideNums=CCD0CF&sideLabels=9BA8AB&dates=9BA8AB" width="80%" alt="Streak stats"/>
 
 </div>
 
@@ -146,13 +144,13 @@
 
 Open to **SDE roles**, internships and collaborations on impactful **AI + software** projects.
 
-<br>
+<br><br>
 
-<a href="https://www.linkedin.com/in/pushpender-mishra"><img src="assets/linkedin.svg" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/pushpender1043"><img src="https://cdn.simpleicons.org/github/22d3ee" height="28" alt="github"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/pushpender_1043/"><img src="https://cdn.simpleicons.org/leetcode/22d3ee" height="28" alt="leetcode"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://huggingface.co/pushpender1043"><img src="https://cdn.simpleicons.org/huggingface/22d3ee" height="28" alt="huggingface"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:pushpendermishra01@gmail.com"><img src="https://cdn.simpleicons.org/gmail/22d3ee" height="28" alt="gmail"/></a>
+<a href="https://www.linkedin.com/in/pushpender-mishra"><img src="assets/social-linkedin.svg" height="42" alt="LinkedIn"/></a>
+<a href="https://github.com/pushpender1043"><img src="assets/social-github.svg" height="42" alt="GitHub"/></a>
+<a href="https://leetcode.com/u/pushpender_1043/"><img src="assets/social-leetcode.svg" height="42" alt="LeetCode"/></a>
+<a href="https://huggingface.co/pushpender1043"><img src="assets/social-huggingface.svg" height="42" alt="Hugging Face"/></a>
+<a href="mailto:pushpendermishra01@gmail.com"><img src="assets/social-gmail.svg" height="42" alt="Gmail"/></a>
 
 </div>
 
