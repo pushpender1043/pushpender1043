@@ -138,8 +138,6 @@
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pushpender1043&bg_color=0d1424&color=9fb3c8&line=22d3ee&point=a78bfa&area=true&area_color=7c3aed&title_color=22d3ee&hide_border=true&radius=14" width="92%" alt="Contribution activity"/>
-
 </div>
 
 <div align="center"><img src="assets/h-connect.svg" width="100%" alt="Connect"/></div>
